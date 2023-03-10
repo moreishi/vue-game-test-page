@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_game_test"]=self["webpackChunkvue_game_test"]||[]).push([[443],{4335:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=n(3396);const a={class:"about"},s=(0,u._)("h1",null,"This is an about page",-1),r=[s];function c(e,t){return(0,u.wg)(),(0,u.iD)("div",a,r)}var i=n(89);const o={},f=(0,i.Z)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.9f411f33.js.map
